@@ -5,6 +5,8 @@
   ],
   "general": {
     "quickSaveFromFavorites": "Quick Save for \"Favorites\""
+     "quickSaveFromFavorites": "\"পছন্দের\" জন্য জলদি সংরক্ষণ করুন"
+     
   },
   "sendTab": {
     "manualSending": "Manual sending"
@@ -52,6 +54,7 @@
     "quickSaveFromFavoritesNotice": {
       "title": "@:general.quickSaveFromFavorites",
       "content": "File requests are now accepted automatically from devices in your favorites list."
+      "content": "ফাইলের অনুরোধ এখন আপনার পছন্দের তালিকার ডিভাইসগুলো থেকে স্বয়ংক্রিয়ভাবে গৃহীত হচ্ছে।"
     },
     "pin": {
       "title": "Enter PIN"
